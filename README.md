@@ -32,4 +32,4 @@ I once wrote a Python script to make my coffee in the morning. Sadly, my coffee 
 
 With the ability to bridge technology and business, I'm adept at extracting insights for informed decision-making. My communication, collaboration, and cross-functional team management skills are well-proven for successful project outcomes.
 
-             Let's collaborate and create something extraordinary!
+Let's collaborate and create something extraordinary!
