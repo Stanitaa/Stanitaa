@@ -11,13 +11,6 @@ Highly analytical and detail-oriented professional focused on transforming raw d
 Stay tuned as I continue to evolve and integrate the latest advancements into my analytical toolkit!
 ---
 
-### 🛠️ Skills
-
-* **Cloud & Infrastructure:** AWS (S3, Redshift, EC2), Google Cloud Platform (GCP), Docker (Containerization)
-* **Analytics & BI:** Metabase, Tableau, PowerBI, Matlab (Numerical Computing)
-* **Data Engineering:** Python (Pandas, NumPy, Scikit-Learn), SQL (PostgreSQL, Window Functions, CTEs)
-* **DevOps & Workflow:** Git/GitHub, Linux CLI, ETL Pipeline Automation
-
 ### 🛠️ Technical Skills
 
 **Cloud & Infrastructure**
