@@ -1,56 +1,73 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=200&section=header&text=STANITAA&fontSize=80&animation=fadeIn&fontAlignY=35" />
+</p>
 
+# 👋 Greetings, I'm Stanita
 
-# Hi, I'm Stanita 👋
+<table>
+  <tr>
+    <td width="60%">
+      <h3>🚀 Senior-Track Data Analyst</h3>
+      <p>Highly analytical professional focused on transforming raw data into <b>actionable business intelligence</b>. My expertise bridges the gap between <b>Data Engineering</b> and <b>Electronics Engineering</b>.</p>
+      <p>I specialize in architecting scalable pipelines, migrating flat data to cloud-ready SQL environments, and delivering high-impact stakeholder reports.</p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Stanitaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%"/>
+    </td>
+  </tr>
+</table>
 
-### Data Analyst | Python & SQL Specialist
-
-Greetings! 
-
-Highly analytical and detail-oriented professional focused on transforming raw data into actionable business intelligence.  My expertise spans both data analysis and electronics engineering, encompassing a proven ability to identify enhancement areas and implement impactful solutions.
-
-Stay tuned as I continue to evolve and integrate the latest advancements into my analytical toolkit!
 ---
 
-### 🛠️ Technical Skills
+### ⚡ Technical Pulse
+
+**Languages & Data Engineering**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,sql,matlab,pandas,numpy,sklearn" />
+  </a>
+</p>
 
 **Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
-![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,bash" />
+  </a>
+</p>
 
-**Analytics & Business Intelligence**
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-![MATLAB](https://img.shields.io/badge/Matlab-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white)
+**Analytics & BI**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=metabase,tableau" />
+  </a>
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" height="48" />
+</p>
 
-**Data Engineering & Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+---
 
-**DevOps & Workflow**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 📁 Featured Production
+**[Berlin Airbnb Market Health Report](https://github.com/Stanitaa/Berlin-Airbnb-Market-Analysis)**
+* **Architected** an end-to-end pipeline from Python-based cleaning to a SQLite production database.
+* **Engineered** custom "Utility Gap" features to model 2025 European energy cost impacts.
+* **Implemented** automated SQL reporting using CTEs and Window Functions for real-time district ranking.
+
+---
+
+### 📊 System Metrics
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Stanitaa&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+</p>
 
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** https://www.linkedin.com/in/stanitamelony/
+* **LinkedIn:** [stanitamelony](https://www.linkedin.com/in/stanitamelony/)
 * **Email:** stanitampinto@gmail.com
 
 ---
 
-
 ## 😄 Fun Fact
-
-I once wrote a Python script to make my coffee in the morning. Sadly, my coffee machine didn't appreciate the innovation.
+I once wrote a Python script to make my coffee in the morning. Sadly, my coffee machine didn't appreciate the innovation. ☕
 
 ---
 ## ⚡ Let's Build Something Amazing!
