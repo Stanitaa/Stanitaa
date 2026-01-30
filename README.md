@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=200&section=header&text=STANITA%20PINTO&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=ffffff&desc=Data%20Analyst%20|%20Electronics%20Engineer&descAlignY=60&descSize=20&descColor=ffc0cb" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=200&section=header&text=STANITA%20PINTO&fontSize=70&animation=fadeIn&fontAlignY=26&fontColor=OOOOff&desc=Data%20Analyst%20|%20Electronics%20Engineer&descAlignY=60&descSize=20&descColor=ffc0cb" />
 </p>
 
 # 🎀 Greetings! I'm Stanita 
