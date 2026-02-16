@@ -41,13 +41,6 @@ Highly analytical and detail-oriented professional focused on transforming raw d
 ![](https://nirzak-streak-stats.vercel.app/?user=stanitaa&theme=shades-of-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stanitaa&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-<div align="center">
-  <b>✨ SYSTEM FUN FACT ✨</b><br>
-  I once wrote a Python script to make my coffee in the morning.<br>
-  <i>Sadly, my coffee machine didn't appreciate the innovation. ☕</i>
-</div>
 
 ---
 
